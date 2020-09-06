@@ -22,4 +22,9 @@ You may need some more Freeware Tools:
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DZUZXE2WCJU4U)
 
+# Screeshots
+Be aware, game timer is set for real hardware device and may run to slow on emulator!
+ 
+![game screenshot](/Senso_Screenshot.png?raw=true "screenshot") 
+![start screen](/Senso_StartScreen.png?raw=true "start screen")
 
